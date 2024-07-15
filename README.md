@@ -104,7 +104,7 @@ INSERT INTO Products (id, name, price, category) VALUES
 
     - npm start
 
-####  Your e-commerce application should now be running locally. You can access the frontend at http://localhost:3000 and the backend at http://localhost:5000.
+####  E-commerce application should now be running locally. You can access the frontend at http://localhost:3000 and the backend at http://localhost:5000.
 
 
 
